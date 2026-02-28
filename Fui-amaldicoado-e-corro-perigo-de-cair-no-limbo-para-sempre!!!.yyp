@@ -35,6 +35,7 @@
     {"id":{"name":"obj_Cima","path":"objects/obj_Cima/obj_Cima.yy",},},
     {"id":{"name":"obj_Direita","path":"objects/obj_Direita/obj_Direita.yy",},},
     {"id":{"name":"obj_Esquerda","path":"objects/obj_Esquerda/obj_Esquerda.yy",},},
+    {"id":{"name":"obj_Interage","path":"objects/obj_Interage/obj_Interage.yy",},},
     {"id":{"name":"obj_Lixo","path":"objects/obj_Lixo/obj_Lixo.yy",},},
     {"id":{"name":"obj_Mesa","path":"objects/obj_Mesa/obj_Mesa.yy",},},
     {"id":{"name":"obj_Parede","path":"objects/obj_Parede/obj_Parede.yy",},},
