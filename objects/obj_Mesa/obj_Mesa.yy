@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Parede",
+  "%Name":"obj_Mesa",
   "eventList":[],
   "managed":true,
-  "name":"obj_Parede",
+  "name":"obj_Mesa",
   "overriddenProperties":[],
   "parent":{
-    "name":"ChaoParede",
-    "path":"folders/Objects/ChaoParede.yy",
+    "name":"Props",
+    "path":"folders/Objects/Props.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Parede",
-    "path":"sprites/spr_Parede/spr_Parede.yy",
+    "name":"spr_Mesa",
+    "path":"sprites/spr_Mesa/spr_Mesa.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -6,8 +6,8 @@
   "name":"obj_Chao",
   "overriddenProperties":[],
   "parent":{
-    "name":"Props",
-    "path":"folders/Objects/Props.yy",
+    "name":"ChaoParede",
+    "path":"folders/Objects/ChaoParede.yy",
   },
   "parentObjectId":null,
   "persistent":false,
