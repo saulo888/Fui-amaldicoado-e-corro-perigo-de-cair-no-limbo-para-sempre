@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Mesa",
+  "%Name":"obj_Lixo",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Mesa",
+  "name":"obj_Lixo",
   "overriddenProperties":[],
   "parent":{
     "name":"Props",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Mesa",
-    "path":"sprites/spr_Mesa/spr_Mesa.yy",
+    "name":"spr_Lixo",
+    "path":"sprites/spr_Lixo/spr_Lixo.yy",
   },
   "spriteMaskId":null,
   "visible":true,
