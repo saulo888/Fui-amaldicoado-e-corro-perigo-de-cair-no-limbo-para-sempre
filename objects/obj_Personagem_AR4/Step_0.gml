@@ -1,0 +1,2 @@
+movimento(self, direcao, velocidade);
+

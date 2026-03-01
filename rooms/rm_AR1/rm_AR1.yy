@@ -154,7 +154,7 @@
   "name":"rm_AR1",
   "parent":{
     "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "path":"folders/ARs/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

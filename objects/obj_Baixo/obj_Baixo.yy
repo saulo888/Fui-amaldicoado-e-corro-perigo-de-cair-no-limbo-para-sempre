@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"obj_Baixo",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_Personagem","path":"objects/obj_Personagem/obj_Personagem.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_Baixo",
   "overriddenProperties":[],
