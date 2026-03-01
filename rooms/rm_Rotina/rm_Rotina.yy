@@ -61,6 +61,7 @@
     {"name":"inst_32616D12","path":"rooms/rm_Rotina/rm_Rotina.yy",},
     {"name":"inst_E891FDA","path":"rooms/rm_Rotina/rm_Rotina.yy",},
     {"name":"inst_25187BCC","path":"rooms/rm_Rotina/rm_Rotina.yy",},
+    {"name":"inst_E75959D","path":"rooms/rm_Rotina/rm_Rotina.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -140,6 +141,7 @@
         {"$GMRInstance":"v4","%Name":"inst_2F80654E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2F80654E","objectId":{"name":"obj_Agua","path":"objects/obj_Agua/obj_Agua.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_Agua","path":"objects/obj_Agua/obj_Agua.yy",},"propertyId":{"name":"ativado","path":"objects/obj_Agua/obj_Agua.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"False",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1335.0,"y":190.0,},
+        {"$GMRInstance":"v4","%Name":"inst_E75959D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_E75959D","objectId":{"name":"obj_FimDia","path":"objects/obj_FimDia/obj_FimDia.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":12.0,"x":-160.0,"y":0.0,},
       ],"layers":[],"name":"Props","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Personagem","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_27921F54","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_27921F54","objectId":{"name":"obj_Personagem","path":"objects/obj_Personagem/obj_Personagem.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":0.0,"y":352.0,},

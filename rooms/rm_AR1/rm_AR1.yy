@@ -61,6 +61,7 @@
     {"name":"inst_32616D12_1","path":"rooms/rm_AR1/rm_AR1.yy",},
     {"name":"inst_E891FDA1","path":"rooms/rm_AR1/rm_AR1.yy",},
     {"name":"inst_25187BCC1","path":"rooms/rm_AR1/rm_AR1.yy",},
+    {"name":"inst_6C8EF22E","path":"rooms/rm_AR1/rm_AR1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -85,6 +86,7 @@
         {"$GMRInstance":"v4","%Name":"inst_788C93A3_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_788C93A3_1","objectId":{"name":"obj_Interage","path":"objects/obj_Interage/obj_Interage.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1376.0,"y":672.0,},
         {"$GMRInstance":"v4","%Name":"inst_32616D12_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_32616D12_1","objectId":{"name":"obj_Cima","path":"objects/obj_Cima/obj_Cima.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1440.0,"y":704.0,},
         {"$GMRInstance":"v4","%Name":"inst_E891FDA1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_E891FDA1","objectId":{"name":"obj_Esquerda","path":"objects/obj_Esquerda/obj_Esquerda.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1440.0,"y":480.0,},
+        {"$GMRInstance":"v4","%Name":"inst_6C8EF22E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6C8EF22E","objectId":{"name":"obj_FimDia","path":"objects/obj_FimDia/obj_FimDia.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":12.0,"x":-160.0,"y":0.0,},
       ],"layers":[],"name":"Caminhos","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Props","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_1F56336E1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1F56336E1","objectId":{"name":"obj_Mesa","path":"objects/obj_Mesa/obj_Mesa.yy",},"properties":[

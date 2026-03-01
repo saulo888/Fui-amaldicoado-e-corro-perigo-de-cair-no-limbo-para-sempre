@@ -17,6 +17,6 @@ function movimento(personagem, direcao, velocidade){
 	}
 	else if string_upper(direcao) == "PAUSA"
 	{
-		show_debug_message("Interagindo...");
+		
 	}
 }
