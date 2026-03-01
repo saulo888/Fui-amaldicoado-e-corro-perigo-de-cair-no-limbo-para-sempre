@@ -1,0 +1,1 @@
+objetoAtivador = noone;

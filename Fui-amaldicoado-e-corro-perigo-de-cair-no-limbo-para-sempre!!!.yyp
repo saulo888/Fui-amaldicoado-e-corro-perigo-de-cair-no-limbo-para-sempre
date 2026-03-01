@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"ARs","folderPath":"folders/Objects/ARs.yy","name":"ARs","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Caminhos","folderPath":"folders/Objects/Caminhos.yy","name":"Caminhos","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -33,6 +34,7 @@
     {"id":{"name":"obj_Baixo","path":"objects/obj_Baixo/obj_Baixo.yy",},},
     {"id":{"name":"obj_Chao","path":"objects/obj_Chao/obj_Chao.yy",},},
     {"id":{"name":"obj_Cima","path":"objects/obj_Cima/obj_Cima.yy",},},
+    {"id":{"name":"obj_Controller","path":"objects/obj_Controller/obj_Controller.yy",},},
     {"id":{"name":"obj_Direita","path":"objects/obj_Direita/obj_Direita.yy",},},
     {"id":{"name":"obj_Esquerda","path":"objects/obj_Esquerda/obj_Esquerda.yy",},},
     {"id":{"name":"obj_Interage","path":"objects/obj_Interage/obj_Interage.yy",},},
@@ -41,6 +43,7 @@
     {"id":{"name":"obj_Parede","path":"objects/obj_Parede/obj_Parede.yy",},},
     {"id":{"name":"obj_Personagem","path":"objects/obj_Personagem/obj_Personagem.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"movimento","path":"scripts/movimento/movimento.yy",},},
     {"id":{"name":"spr_Agua","path":"sprites/spr_Agua/spr_Agua.yy",},},
     {"id":{"name":"spr_BackgroundFundo","path":"sprites/spr_BackgroundFundo/spr_BackgroundFundo.yy",},},
     {"id":{"name":"spr_Baixo","path":"sprites/spr_Baixo/spr_Baixo.yy",},},
