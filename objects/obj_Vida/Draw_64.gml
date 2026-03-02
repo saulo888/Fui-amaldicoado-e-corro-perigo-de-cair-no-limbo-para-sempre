@@ -1,0 +1,1 @@
+draw_sprite(spr_Vida, global.vida, x, y);

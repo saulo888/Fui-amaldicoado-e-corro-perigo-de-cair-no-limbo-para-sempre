@@ -1,0 +1,1 @@
+draw_sprite(spr_Dia, global.dia, x, y);
