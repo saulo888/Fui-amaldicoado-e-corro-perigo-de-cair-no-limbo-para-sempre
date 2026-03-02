@@ -28,6 +28,7 @@
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"ativado","filters":[],"listItems":[],"multiselect":false,"name":"ativado","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
     {"$GMObjectProperty":"v2","%Name":"depth","filters":[],"listItems":[],"multiselect":false,"name":"depth","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"201","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"nome","filters":[],"listItems":[],"multiselect":false,"name":"nome","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_Agua","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

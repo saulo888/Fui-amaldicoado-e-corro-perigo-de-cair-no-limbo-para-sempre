@@ -6,7 +6,7 @@ x = other.x+32;
 y = other.y+32;
 direcao = "PAUSA";
 instance_destroy(other);
-alarm[0] = 60;
+alarm[0] = 80;
 if other.objetoAtivador != noone
 {
 	other.objetoAtivador.image_index = 0
